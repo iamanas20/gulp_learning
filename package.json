@@ -1,0 +1,23 @@
+{
+  "name": "gulp_learning",
+  "version": "1.0.0",
+  "description": "this is a gulp learning repo!",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^4.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamanas20/gulp_learning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamanas20/gulp_learning/issues"
+  },
+  "homepage": "https://github.com/iamanas20/gulp_learning#readme"
+}
